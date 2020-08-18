@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=y-yana&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-yana&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **y-yana/y-yana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
